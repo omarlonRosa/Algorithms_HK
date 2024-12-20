@@ -4,5 +4,7 @@
 /out
 /.idea/
 
-*.class 
 *.iml 
+*.class 
+
+
