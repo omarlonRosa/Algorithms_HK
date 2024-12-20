@@ -4,5 +4,6 @@
 /out
 /.idea/
 
-*.iml .gitignore  
+*.iml 
+*.gitignore  
 *.class
