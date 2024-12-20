@@ -20,7 +20,7 @@ public class MyStack {
 
     //System.out.println(stack.empty());
 
-    System.err.println(stack.peek());
+    System.out.println(stack.peek());
     System.out.println(stack.search("Mario Bros"));
     System.out.println(stack);
     System.out.println(myFavGame);
